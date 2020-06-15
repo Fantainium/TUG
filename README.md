@@ -1,5 +1,6 @@
 # TUG
 local multiplayer tug of war
+https://fantainium.github.io/TUG/index.html
 
 Made in pure javascript by Collwyn Bevan
 
