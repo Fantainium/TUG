@@ -38,7 +38,7 @@ const inter = setInterval(() => {
     rightPresses = 0
 }, 10);
 
-document.addEventListener('keydown', function (event) {
+document.addEventListener('keyup', function (event) {
     if (event.keyCode == 65) {
         leftPresses++
     }
