@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    /* text-align: center; */
+    padding-top: 128px;
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main {
+    height: 100vh;
+    text-align: center;
+}
+
+.sub {
+    font-size: 24px;
+    color: rgb(43, 43, 43);
+}
+
+#game {
+    width: 50vw;
+    height: 256px;
+    margin-top: 256px;;
+}
